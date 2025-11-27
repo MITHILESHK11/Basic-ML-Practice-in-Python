@@ -1,4 +1,3 @@
-````markdown
 # Basic ML Practice in Python
 
 **Repository:** `Basic-ML-Practice-in-Python`  
