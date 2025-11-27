@@ -297,12 +297,8 @@ model.fit(X_train, y_train)
 joblib.dump(model, "models/rf_model.joblib")
 model = joblib.load("models/rf_model.joblib")
 ```
+### 🎉 Thank You!
 
-```
-
----
-
-If you want this exported as a **downloadable `README.md` file**, just say:
-
-👉 **“Download this as README.md”**
-```
+Thank you for exploring this project!  
+Your time and interest mean a lot. If you have any suggestions or improvements, feel free to reach out anytime. 🚀  
+**Happy Learning & Happy Coding! 😊**
