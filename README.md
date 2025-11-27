@@ -297,8 +297,10 @@ model.fit(X_train, y_train)
 joblib.dump(model, "models/rf_model.joblib")
 model = joblib.load("models/rf_model.joblib")
 ```
+---
 ### 🎉 Thank You!
 
 Thank you for exploring this project!  
 Your time and interest mean a lot. If you have any suggestions or improvements, feel free to reach out anytime. 🚀  
 **Happy Learning & Happy Coding! 😊**
+---
